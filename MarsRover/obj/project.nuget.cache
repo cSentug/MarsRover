@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "61M/p2j9AOXMEyuLM+zUIoBUJhKS0qL4DY9pNHSbOe176vVLTVGx/Hv6Ghsxc7S1BmMc+xTvzVPOZz3zuTf6gw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cagri\\RiderProjects\\MarsRover\\MarsRover\\MarsRover.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cagri\\.nuget\\packages\\autofac\\5.2.0\\autofac.5.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}

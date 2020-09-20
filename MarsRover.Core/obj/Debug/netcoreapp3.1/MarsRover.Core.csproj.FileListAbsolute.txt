@@ -1,0 +1,12 @@
+C:\Users\cagri\RiderProjects\MarsRover\MarsRover.Core\bin\Debug\netcoreapp3.1\MarsRover.Core.deps.json
+C:\Users\cagri\RiderProjects\MarsRover\MarsRover.Core\bin\Debug\netcoreapp3.1\MarsRover.Core.dll
+C:\Users\cagri\RiderProjects\MarsRover\MarsRover.Core\bin\Debug\netcoreapp3.1\MarsRover.Core.pdb
+C:\Users\cagri\RiderProjects\MarsRover\MarsRover.Core\obj\Debug\netcoreapp3.1\MarsRover.Core.csprojAssemblyReference.cache
+C:\Users\cagri\RiderProjects\MarsRover\MarsRover.Core\obj\Debug\netcoreapp3.1\MarsRover.Core.AssemblyInfoInputs.cache
+C:\Users\cagri\RiderProjects\MarsRover\MarsRover.Core\obj\Debug\netcoreapp3.1\MarsRover.Core.AssemblyInfo.cs
+C:\Users\cagri\RiderProjects\MarsRover\MarsRover.Core\obj\Debug\netcoreapp3.1\MarsRover.Core.csproj.CoreCompileInputs.cache
+C:\Users\cagri\RiderProjects\MarsRover\MarsRover.Core\obj\Debug\netcoreapp3.1\MarsRover.Core.dll
+C:\Users\cagri\RiderProjects\MarsRover\MarsRover.Core\obj\Debug\netcoreapp3.1\MarsRover.Core.pdb
+C:\Users\cagri\RiderProjects\MarsRover\MarsRover.Core\bin\Debug\netcoreapp3.1\MarsRover.Domain.dll
+C:\Users\cagri\RiderProjects\MarsRover\MarsRover.Core\bin\Debug\netcoreapp3.1\MarsRover.Domain.pdb
+C:\Users\cagri\RiderProjects\MarsRover\MarsRover.Core\obj\Debug\netcoreapp3.1\MarsRover.Core.csproj.CopyComplete
