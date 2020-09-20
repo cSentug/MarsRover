@@ -1,4 +1,4 @@
-# MarsRover
+# MarsRover My Approach
 There're many unmentioned parts of story. So i wanted to stick with
 SOLID princibles as much as possible. Also aimed to %100 code covarage for core layer. 
 
@@ -31,9 +31,9 @@ I think it should since if move is not in plateau it should not go there.
 So,
 I wrote a private method in rover which worries about if given coordinates in plateau.
 
-In some of unit tests i took help of input collections
+In some of unit tests i took help of input collections.
 
-# MarsRover Kata
+# Orginal MarsRover Kata
 Mars Rovers thoughtworks puzzles
 A squad of robotic rovers are to be landed by NASA on a plateau on Mars. This plateau, which is curiously rectangular, must be navigated by the rovers so that their on-board cameras can get a complete view of the surrounding terrain to send back to Earth. A rover's position and location is represented by a combination of x and y co-ordinates and a letter representing one of the four cardinal compass points. The plateau is divided up into a grid to simplify navigation. An example position might be 0, 0, N, which means the rover is in the bottom left corner and facing North. In order to control a rover, NASA sends a simple string of letters. The possible letters are 'L', 'R' and 'M'. 'L' and 'R' makes the rover spin 90 degrees left or right respectively, without moving from its current spot. 'M' means move forward one grid point, and maintain the same heading.
 
